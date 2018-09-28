@@ -2,7 +2,7 @@
 
 A simple LL-parser written from scratch in Java. 
 
-## Downloading
+## Downloading & Running
 
 To run, download the source files in src. 
 
