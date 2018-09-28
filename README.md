@@ -22,6 +22,7 @@ Valid inputs:
 
 "Vote" + 4 + "Pedro"
 
+
 Invalid inputs: 
 
 5 +
