@@ -14,7 +14,7 @@ run the program with the command "java Driver"
 
 Arguments are entered on the command line. The parser has three types: int, double, and String. It can can deal with  mathematical operations on ints & doubles, and handles some operations for Strings. 
 
-Valid inputs: 
+#### Valid inputs: 
 
 "Hello" + " World!"
 
@@ -22,8 +22,7 @@ Valid inputs:
 
 "Vote" + 4 + "Pedro"
 
-
-Invalid inputs: 
+#### Invalid inputs: 
 
 5 +
 
