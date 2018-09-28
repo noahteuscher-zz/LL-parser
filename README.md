@@ -18,12 +18,12 @@ Arguments are entered on the command line. The parser has three types: int, doub
 
 "Hello" + " World!"
 
-3 * 2
+3 * (2 + 4)
 
 "Vote" + 4 + "Pedro"
 
 #### Invalid inputs: 
 
-5 +
+5 + 5 *
 
 "Number" / "Zero"
